@@ -3,10 +3,10 @@ All Gemini LLM Apps
 
 #### Application one
 ``` 
-streamlist run Application 1/app.py
+streamlit run Application 1/app.py
 ```
 
 #### Application two
 ``` 
-streamlist run Application 2/chat.py
+streamlit run Application 2/chat.py
 ```

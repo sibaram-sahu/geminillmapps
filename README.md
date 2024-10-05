@@ -43,7 +43,18 @@ streamlit run Application 7/nutritionist.py
 
 Note: This will not able calculate size and quantity.
 
-#### Nutritionist App
+#### Youtube transcirbe Application
 ``` 
 streamlit run Application 8/youtube_transcirbe.py
+```
+
+#### Sql llm application
+Ready the database. (it will create student.db in the root folder)
+```
+python sqlite.py
+```
+
+Run the application
+``` 
+streamlit run Application 9/sql.py
 ```

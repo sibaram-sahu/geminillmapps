@@ -17,3 +17,8 @@ streamlit run Application 2/chat.py
 ``` 
 streamlit run Application 3/invoice-extractor.py
 ```
+
+#### Chat with multiple pdf
+``` 
+streamlit run Application 4/chat-with-multiple-pdf.py
+```

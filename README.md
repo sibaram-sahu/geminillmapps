@@ -35,3 +35,10 @@ Note: To run this pdf2Image you need poppler-window to install and set the bin p
 ``` 
 streamlit run Application 6/ats-text.py
 ```
+
+#### Nutritionist App
+``` 
+streamlit run Application 6/ats-text.py
+```
+
+Note: This will not able calculate size and quantity.

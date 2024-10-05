@@ -30,3 +30,8 @@ streamlit run Application 5/ats.py
 
 Note: To run this pdf2Image you need poppler-window to install and set the bin path in your environment variables
 [poppler-windows](https://github.com/oschwartz10612/poppler-windows/releases/tag/v24.07.0-0)
+
+#### Application tracking system with text model
+``` 
+streamlit run Application 6/ats-text.py
+```

@@ -38,7 +38,12 @@ streamlit run Application 6/ats-text.py
 
 #### Nutritionist App
 ``` 
-streamlit run Application 6/ats-text.py
+streamlit run Application 7/nutritionist.py
 ```
 
 Note: This will not able calculate size and quantity.
+
+#### Nutritionist App
+``` 
+streamlit run Application 8/youtube_transcirbe.py
+```
